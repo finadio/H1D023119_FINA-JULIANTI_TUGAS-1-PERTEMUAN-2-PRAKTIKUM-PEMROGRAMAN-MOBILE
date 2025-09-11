@@ -16,6 +16,18 @@
         android:src="@drawable/gedung_teknik" />
 
     <TextView
+        android:id="@+id/tv_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selamat Datang di Prodi Informatika,
+Fakultas Teknik,
+Universitas Jenderal Soedirman"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginTop="12dp" />
+
+    <TextView
         android:id="@+id/tv_description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
