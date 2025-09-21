@@ -38,4 +38,5 @@ Berikut adalah tautan video yang menunjukkan demo perpindahan halaman pada aplik
 
 [Lihat Video Demo Aplikasi](https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/record_demo.mp4)
 
-Berikut adalah tampilan halaman utama aplikasi:
+### Berikut adalah tampilan halaman utama aplikasi:
+<img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/pageutama.png" width="250">
