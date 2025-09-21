@@ -36,6 +36,7 @@ Pada tugas kedua ini, aplikasi telah dikembangkan dengan menambahkan halaman bar
 
 #### Tampilan Halaman Profil Lulusan
 Halaman ini dapat diakses dengan menekan tombol "Berikutnya" dari halaman utama.
+
 <img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/pageutama.png" width="250">
 
 #### Demo Aplikasi (Perpindahan Halaman)
