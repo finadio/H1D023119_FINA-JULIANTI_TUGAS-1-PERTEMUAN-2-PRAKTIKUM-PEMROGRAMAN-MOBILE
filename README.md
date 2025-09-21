@@ -9,7 +9,7 @@ Aplikasi ini adalah tugas praktikum untuk mata kuliah Pemrograman Mobile. Aplika
 
 - **Nama:** Fina Julianti
 - **NIM:** H1D023119
--  **Shift:** E
+- **Shift:** E
 - **Jurusan:** Informatika
 - **Universitas:** Universitas Jenderal Soedirman
 
@@ -19,8 +19,11 @@ Aplikasi ini adalah tugas praktikum untuk mata kuliah Pemrograman Mobile. Aplika
 
 Berikut adalah tangkapan layar (screenshot) dari aplikasi:
 
-#### Halaman Utama
-![Tampilan Halaman Utama](https://i.imgur.com/example-screenshot-1.png)
+#### App Logo
+<img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/App%20Logo.png?raw=true" width="250">
 
-#### Halaman Lainnya (jika ada)
-![Tampilan Halaman Lainnya](https://i.imgur.com/example-screenshot-2.png)
+#### Halaman Utama App
+<img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/Halaman%20Utama%20App.png?raw=true" width="250">
+
+#### Backapk App
+<img src="https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/Backapk%20App.png?raw=true" width="250">
