@@ -45,5 +45,5 @@ Video berikut menunjukkan demo perpindahan halaman yang telah dibuat.
 [Lihat Video Demo Aplikasi](https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/record_demo.mp4)
 
 ### Gift Demo Aplikasi
-<img src = "https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/record_demo_gift.gif" width="250">
+<img src = "https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/record_demo_gift.gif" width="500">
 
