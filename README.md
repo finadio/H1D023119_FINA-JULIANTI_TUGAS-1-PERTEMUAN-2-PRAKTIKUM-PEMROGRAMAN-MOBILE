@@ -47,3 +47,13 @@ Video berikut menunjukkan demo perpindahan halaman yang telah dibuat.
 ### Gift Demo Aplikasi
 <img src = "https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/record_demo_gift.gif" width="500">
 
+## Tugas 3: MVVM dan Networking (Daftar Buku)
+
+Implementasi arsitektur **MVVM (Model-View-ViewModel)** dan **Networking** menggunakan **Retrofit** untuk mengambil data daftar buku (query: *"kotlin programming"*) dari **OpenLibrary API**. Data ditampilkan menggunakan **`RecyclerView`** di `DaftarBukuActivity`.
+
+#### Demo Pengambilan Data dari API
+
+Demo ini memperlihatkan aplikasi memuat data buku secara dinamis saat aplikasi dimulai.
+
+<img src = "https://github.com/finadio/H1D023119_FINA-JULIANTI_TUGAS-1-PERTEMUAN-2-PRAKTIKUM-PEMROGRAMAN-MOBILE/blob/main/app/src/main/res/drawable/demo3.gif" width="500">
+
